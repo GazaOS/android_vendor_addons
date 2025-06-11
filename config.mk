@@ -373,6 +373,17 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
+<<<<<<< HEAD
+=======
+# BetterQS
+PRODUCT_PACKAGES += \
+    BetterQS
+
+# Basic Call Recorder
+PRODUCT_PACKAGES += \
+    Bcr
+
+>>>>>>> f59755eb (Addon: Add Basic Call Recorder)
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
