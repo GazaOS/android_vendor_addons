@@ -4,8 +4,13 @@
         android:bottom="2dp"
         android:top="2dp">
         <shape android:shape="rectangle">
+<<<<<<< HEAD
             <solid android:color="@drawable/color_background_alpha" />
             <corners android:radius="@dimen/qs_corner_radius_top" />
+=======
+            <solid android:color="@*android:drawable/color_background_alpha" />
+            <corners android:radius="@*android:dimen/qs_corner_radius_top" />
+>>>>>>> f0ec19d3 (addons:Add transperent notification style [EXPERIMENTAL] [3/3])
             <padding
                 android:left="20dp"
                 android:right="20dp" />
