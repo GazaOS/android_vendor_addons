@@ -154,7 +154,11 @@ PRODUCT_PACKAGES += \
     FontExotwoOverlay \
     FontFifa2018Overlay \
     FontGrandHotelOverlay \
+<<<<<<< HEAD
     FontGoogleSansFlexOverlay \
+=======
+    FontGoogleSansOverlay \
+>>>>>>> 0f58bcbb (Font: Add GoogleSans_New Font)
     FontHarmonySansOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
