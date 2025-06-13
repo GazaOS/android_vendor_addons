@@ -154,11 +154,8 @@ PRODUCT_PACKAGES += \
     FontExotwoOverlay \
     FontFifa2018Overlay \
     FontGrandHotelOverlay \
-<<<<<<< HEAD
     FontGoogleSansFlexOverlay \
-=======
     FontGoogleSansOverlay \
->>>>>>> 0f58bcbb (Font: Add GoogleSans_New Font)
     FontHarmonySansOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
@@ -388,13 +385,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     BetterQS
 
-<<<<<<< HEAD
+
 # Basic Call Recorder
 PRODUCT_PACKAGES += \
     Bcr
 
-=======
->>>>>>> 77c0cf7b (Implement Better QS [2/3])
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
